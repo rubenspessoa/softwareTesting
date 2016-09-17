@@ -18,7 +18,7 @@
     <SUITE FILE_PATH="coverage/SoftwareTesting-Exercise03$Main.coverage" NAME="Main Coverage Results" MODIFIED="1473729775814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SoftwareTesting-Exercise03$Testing.coverage" NAME="Testing Coverage Results" MODIFIED="1473730822983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="emma" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/SoftwareTesting-Exercise03$MyPriorityQueueTest_comparatorTest1.coverage" NAME="MyPriorityQueueTest.comparatorTest1 Coverage Results" MODIFIED="1473734964422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/SoftwareTesting-Exercise03$MyPriorityQueueTest.coverage" NAME="MyPriorityQueueTest Coverage Results" MODIFIED="1473735429122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SoftwareTesting-Exercise03$MyPriorityQueueTest.coverage" NAME="MyPriorityQueueTest Coverage Results" MODIFIED="1474151659195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="0" />
@@ -37,7 +37,7 @@
           <file leaf-file-name="MyPriorityQueue.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="175">
+                <state relative-caret-position="-1062">
                   <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
                   <folding>
                     <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
@@ -92,8 +92,6 @@
                     <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
                     <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
                     <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
-                    <element signature="e#26772#26773#0" expanded="true" />
-                    <element signature="e#26805#26806#0" expanded="true" />
                     <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
                     <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
                     <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
@@ -106,21 +104,28 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="MyPriorityQueueTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="634">
-                  <caret line="196" column="6" selection-start-line="196" selection-start-column="6" selection-end-line="196" selection-end-column="6" />
+                <state relative-caret-position="543">
+                  <caret line="207" column="5" selection-start-line="207" selection-start-column="5" selection-end-line="207" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#295#296#0" expanded="true" />
-                    <element signature="e#354#355#0" expanded="true" />
-                    <element signature="e#827#836#0" expanded="true" />
-                    <element signature="e#1255#1264#0" expanded="true" />
-                    <element signature="e#1695#1704#0" expanded="true" />
-                    <element signature="e#4129#4130#0" expanded="true" />
-                    <element signature="e#4181#4182#0" expanded="true" />
+                    <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+                    <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -181,8 +186,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -217,7 +222,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -230,97 +235,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SoftwareTesting-Exercise03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -881,17 +796,12 @@
       <workItem from="1473391035794" duration="598000" />
       <workItem from="1473568095834" duration="13000" />
       <workItem from="1473568174554" duration="7000" />
-      <workItem from="1473703637852" duration="7410000" />
+      <workItem from="1473703637852" duration="7651000" />
+      <workItem from="1474151246111" duration="437000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyPriorityQueueTest - 2016.09.12 at 23h 49m 44s.xml">
-      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyPriorityQueueTest - 2016.09.12 at 23h 51m 11s.xml">
-      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyPriorityQueueTest - 2016.09.12 at 23h 51m 17s.xml">
       <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
     </history-entry>
@@ -916,24 +826,30 @@
     <history-entry file="MyPriorityQueueTest - 2016.09.12 at 23h 57m 11s.xml">
       <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyPriorityQueueTest - 2016.09.17 at 19h 31m 59s.xml">
+      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPriorityQueueTest - 2016.09.17 at 19h 34m 20s.xml">
+      <configuration name="MyPriorityQueueTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9228000" />
+    <option name="totallyTimeSpent" value="9906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.49483013" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17227723" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24494143" sideWeight="0.50516987" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17123288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24474959" sideWeight="0.50516987" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1145,7 +1061,7 @@
           <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="107" />
+      <option name="time" value="108" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1154,6 +1070,95 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#queue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#comparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#modCount#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#2;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#2;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#3;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#4;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#4;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#5;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#5;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initFromPriorityQueue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initElementsFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#initFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#grow#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#grow#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#offer#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#offer#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#peek#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#indexOf#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#remove#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#removeEq#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#removeEq#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#toArray#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#toArray#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#toArray#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="class#Itr#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#clear#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#poll#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#removeAt#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#removeAt#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#siftUp#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUp#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUpComparable#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUpUsingComparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#siftDown#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDown#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDownComparable#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDownUsingComparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1211,8 +1216,6 @@
             <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
-            <element signature="e#26772#26773#0" expanded="true" />
-            <element signature="e#26805#26806#0" expanded="true" />
             <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
@@ -1227,13 +1230,20 @@
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#827#836#0" expanded="true" />
-            <element signature="e#1255#1264#0" expanded="true" />
-            <element signature="e#1695#1704#0" expanded="true" />
-            <element signature="e#4129#4130#0" expanded="true" />
-            <element signature="e#4181#4182#0" expanded="true" />
+            <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1242,7 +1252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,8 +1312,6 @@
             <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
-            <element signature="e#26772#26773#0" expanded="true" />
-            <element signature="e#26805#26806#0" expanded="true" />
             <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
@@ -1317,7 +1324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,8 +1384,6 @@
             <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
-            <element signature="e#26772#26773#0" expanded="true" />
-            <element signature="e#26805#26806#0" expanded="true" />
             <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
@@ -1394,13 +1398,20 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#827#836#0" expanded="true" />
-            <element signature="e#1255#1264#0" expanded="true" />
-            <element signature="e#1695#1704#0" expanded="true" />
-            <element signature="e#4129#4130#0" expanded="true" />
-            <element signature="e#4181#4182#0" expanded="true" />
+            <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1409,23 +1420,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1433,7 +1435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1441,7 +1442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1449,7 +1449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="205" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1457,7 +1456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1465,13 +1463,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="-1062">
           <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
           <folding>
             <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
@@ -1526,8 +1523,6 @@
             <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
-            <element signature="e#26772#26773#0" expanded="true" />
-            <element signature="e#26805#26806#0" expanded="true" />
             <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
             <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
@@ -1538,17 +1533,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="196" column="6" selection-start-line="196" selection-start-column="6" selection-end-line="196" selection-end-column="6" />
+        <state relative-caret-position="543">
+          <caret line="207" column="5" selection-start-line="207" selection-start-column="5" selection-end-line="207" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#827#836#0" expanded="true" />
-            <element signature="e#1255#1264#0" expanded="true" />
-            <element signature="e#1695#1704#0" expanded="true" />
-            <element signature="e#4129#4130#0" expanded="true" />
-            <element signature="e#4181#4182#0" expanded="true" />
+            <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
           </folding>
         </state>
       </provider>

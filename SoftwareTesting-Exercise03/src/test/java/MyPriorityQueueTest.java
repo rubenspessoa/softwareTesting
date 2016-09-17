@@ -1,4 +1,5 @@
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -194,7 +195,16 @@ public class MyPriorityQueueTest {
         assertEquals(poll3, new Integer(3));
         Integer poll4 = this.queue.poll();
         assertNull(poll4);
-    } 
 
+    }
+
+    @Test
+    public void sizeTest1() {
+        this.queue.add(1);
+        this.queue.add(2);
+        this.queue.add(3);
+
+        Assert.assertEquals(this.queue.size(), 3);
+    }
 
 }
