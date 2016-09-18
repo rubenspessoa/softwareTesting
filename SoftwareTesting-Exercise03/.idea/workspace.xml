@@ -37,7 +37,7 @@
           <file leaf-file-name="MyPriorityQueue.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1062">
+                <state relative-caret-position="15">
                   <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
                   <folding>
                     <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
@@ -108,7 +108,7 @@
           <file leaf-file-name="MyPriorityQueueTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="543">
+                <state relative-caret-position="870">
                   <caret line="207" column="5" selection-start-line="207" selection-start-column="5" selection-end-line="207" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -186,8 +186,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -246,7 +246,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nova-compiler/nova-compiler" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="JUnit.MyPriorityQueueTest">
@@ -797,7 +797,10 @@
       <workItem from="1473568095834" duration="13000" />
       <workItem from="1473568174554" duration="7000" />
       <workItem from="1473703637852" duration="7651000" />
-      <workItem from="1474151246111" duration="437000" />
+      <workItem from="1474151246111" duration="557000" />
+      <workItem from="1474153070983" duration="14000" />
+      <workItem from="1474161516771" duration="29000" />
+      <workItem from="1474161658810" duration="53000" />
     </task>
     <servers />
   </component>
@@ -834,22 +837,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9906000" />
+    <option name="totallyTimeSpent" value="10122000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.49483013" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17123288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24474959" sideWeight="0.50516987" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17123288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -858,14 +859,16 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24474959" sideWeight="0.50516987" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1070,6 +1073,95 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
+          <folding>
+            <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#queue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#size#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#comparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#modCount#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#2;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#2;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#3;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#4;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#4;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#MyPriorityQueue#5;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#MyPriorityQueue#5;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initFromPriorityQueue#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initElementsFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#initFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#initFromCollection#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#grow#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#grow#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#offer#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#offer#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#peek#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#indexOf#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#remove#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#removeEq#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#removeEq#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#toArray#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#toArray#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#toArray#1;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="class#Itr#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#clear#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#poll#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#removeAt#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#removeAt#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#siftUp#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUp#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUpComparable#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftUpUsingComparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#siftDown#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDown#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDownComparable#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#siftDownUsingComparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#heapify#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#comparator#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#writeObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
+            <element signature="method#readObject#0;class#MyPriorityQueue#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#constructorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest3#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest4#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest5#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#constructorTest6#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#addTest2#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#peekTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#clearTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#comparatorTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#containsTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#offerTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+            <element signature="method#pollTest1#0;class#MyPriorityQueueTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2655">
@@ -1468,7 +1560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062">
+        <state relative-caret-position="15">
           <caret line="177" column="41" selection-start-line="177" selection-start-column="31" selection-end-line="177" selection-end-column="41" />
           <folding>
             <element signature="docComment;class#MyPriorityQueue#0" expanded="false" />
@@ -1533,7 +1625,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyPriorityQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
+        <state relative-caret-position="870">
           <caret line="207" column="5" selection-start-line="207" selection-start-column="5" selection-end-line="207" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
